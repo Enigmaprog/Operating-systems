@@ -1,0 +1,2 @@
+#define MSG_SIZE 256
+#define SOCKET_PORT 25565
